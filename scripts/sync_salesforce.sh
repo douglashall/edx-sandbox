@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 source /home/douglashall/venvs/edx-salesforce/bin/activate
 cd /home/douglashall/src/edx-salesforce
